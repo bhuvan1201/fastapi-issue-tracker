@@ -148,18 +148,6 @@ fastapi-issue-tracker/
 │       └── issues.py    # Issue CRUD endpoints
 ├── data/
 │   └── issues.json      # Data storage (auto-created)
-└── docs/
-    ├── crash_course.md              # Written FastAPI tutorial
-    └── crash_course_excalidraw.png  # Architecture diagram from video
 ```
 
-## Documentation
 
-The `docs` folder contains supplementary learning materials:
-
-- **crash_course.md** - A written FastAPI crash course covering all the concepts used in this project
-- **crash_course_excalidraw.png** - The Excalidraw architecture diagram from the YouTube video
-
-## License
-
-MIT
